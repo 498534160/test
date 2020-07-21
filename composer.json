@@ -2,7 +2,7 @@
     "name": "yumo/test",
     "description": "composer",
     "keywords": ["yumo", "test"],
-    "homepage": "https://git@github.com:498534160/test.git",
+    "homepage": "https://github.com/498534160/test.git",
     "type": "library",
     "require": {
         "php": ">=7.1.0"
