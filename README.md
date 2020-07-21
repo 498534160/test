@@ -1,2 +1,4 @@
 # test
-composer的一个测试项目
+
+安装方法：composer require yumo/test
+如何使用：echo \yumo\Test::index();
