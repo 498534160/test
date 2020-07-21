@@ -1,7 +1,7 @@
 <?php
 
 
-namespace test;
+namespace yumo;
 
 
 class Test
