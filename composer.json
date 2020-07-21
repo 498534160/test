@@ -1,5 +1,6 @@
 {
     "name": "yumo/test",
+    "version": "1.0.1",
     "description": "composer",
     "type": "library",
     "require": {
